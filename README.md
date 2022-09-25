@@ -16,3 +16,8 @@ const counter
 - Create back-end Function API (Locally and Azure Cloud)
 - added Json settings host
 
+## Azure Steps
+
+- Deployed Azure Functions
+- Deployed static pages to blob storage
+- change CDN 
